@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 
-- **Carlos Eduardo** (RM94787)
+
 - **Cauã Couto Basques** (RM97755)
 - **Kaique Agostinho de Oliveira** (RM550815)
 - **Leonardo Matheus Mariano** (RM99824)
