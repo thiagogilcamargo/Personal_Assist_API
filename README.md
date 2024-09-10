@@ -86,7 +86,7 @@ A API foi desenvolvida utilizando a arquitetura **Monolítica**. Essa abordagem 
     dotnet run
     ```
 
-    A API estará disponível em `https://localhost:5001` (ou o URL configurado).
+    A API estará disponível em `https://localhost:7130` (ou o URL configurado).
 
 ## Notas Adicionais
 
