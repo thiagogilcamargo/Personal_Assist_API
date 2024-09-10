@@ -1,0 +1,13 @@
+# Ignorar arquivos e pastas do Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignorar pastas de build
+bin/
+obj/
+
+# Ignorar arquivos de log
+*.log
