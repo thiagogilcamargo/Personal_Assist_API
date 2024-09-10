@@ -1,0 +1,17 @@
+# Arquivos do Visual Studio
+.vs/
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+*.suo
+*.user
+*.userosscache
+*.log
+
+# Pasta bin e obj
+bin/
+obj/
+
+# Arquivos temporários
+*.tmp
+*.swp
